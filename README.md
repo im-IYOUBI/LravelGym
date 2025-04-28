@@ -2,6 +2,8 @@
 
 A comprehensive web application for managing a sports facility, developed during an internship at ABTAL Sport Association. The system includes both administrative backend functionality and a public-facing frontend website.
 
+![Login Screen](readmefiles/login.png)
+
 ## Features
 
 ### Backend (Admin Dashboard)
@@ -10,6 +12,16 @@ A comprehensive web application for managing a sports facility, developed during
 - Subscription plans management
 - Transaction tracking
 - Administrative dashboard with analytics
+
+#### Dashboard Navigation
+![Sidebar Navigation](readmefiles/sidbar.png)
+
+#### Customer Management
+![Customer Details](readmefiles/customer-details.png)
+![Customer Overview](readmefiles/customers-show.png)
+
+#### Subscription Plans
+![Plans Management](readmefiles/plans&plansdetail.png)
 
 ### Frontend Website
 - Modern, responsive design
